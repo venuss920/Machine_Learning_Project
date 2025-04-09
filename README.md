@@ -2,6 +2,8 @@
 
 Title: Treating a Regression Problem as a Classification Problem to Boost overall Performance
 
+Main File - https://github.com/venuss920/Machine_Learning_Project/blob/main/Studienarbeit_ML/Studienarbeit_ML.py
+
 b) Libraies used - https://scikit-learn.org/stable/ https://scipy.org/ https://matplotlib.org/ https://xgboost.readthedocs.io/en/stable/install.html https://pandas.pydata.org/
 
 
