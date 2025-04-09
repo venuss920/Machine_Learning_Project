@@ -32,9 +32,13 @@ Reg_to_clas
 
 # Three Open Datasets Used to check the performance.
 
-[Frames Per second] - https://www.openml.org/search?type=data&id=42737&sort=runs&status=active
-[California Hosuing] - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
-[Diabetes Dataset] - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+1. [Frames Per second] - https://www.openml.org/search?type=data&id=42737&sort=runs&status=active
+  
+2. [California Hosuing] - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
+  
+3. [Diabetes Dataset] - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
+
+   
 Table Dataset size
 
 References:
