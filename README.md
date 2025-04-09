@@ -9,15 +9,15 @@ b) Libraies used - https://scikit-learn.org/stable/ https://scipy.org/ https://m
 
 - Identification and selection of any open dataset.
 
-• Investigation and Evaluation of a pre-processing method to change the problem domain of regression into classification.
+- Investigation and Evaluation of a pre-processing method to change the problem domain of regression into classification.
 
-• Application of different types of regression-based algorithms.
+- Application of different types of regression-based algorithms.
 
-• Change the problem domain from regression to classification.
+- Change the problem domain from regression to classification.
 
-• Implementation of several classifier-based algorithms.
+- Implementation of several classifier-based algorithms.
 
-• Review of the overall performance.
+- Review of the overall performance.
 
 ![image](https://github.com/user-attachments/assets/d9c4de1d-d782-4457-b397-a41296a0a20c)
 
