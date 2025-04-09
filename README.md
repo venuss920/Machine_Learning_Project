@@ -20,13 +20,14 @@ Libraies used - https://scikit-learn.org/stable/ https://scipy.org/ https://matp
 
 • Review of the overall performance.
 
-Reg_to_clas
+![image](https://github.com/user-attachments/assets/d9c4de1d-d782-4457-b397-a41296a0a20c)
+
 
 
 # Strategies and Methods' Flow diagram:
 
+![image](https://github.com/user-attachments/assets/c03f72f6-c69f-48c8-83ec-7a371ec7d98b)
 
-# Concept
 
 
 
@@ -40,6 +41,9 @@ Reg_to_clas
 
    
 Table Dataset size
+![image](https://github.com/user-attachments/assets/82381a9d-9337-439d-b33c-17ad3e432a5c)
+
+
 
 References:
 
