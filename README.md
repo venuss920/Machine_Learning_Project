@@ -1,5 +1,9 @@
 # Machine_Learning_Project
 
+# TITLE
+
+Treating a Regression Problem as a Classification Problem to Boost overall Performance
+
 Libraies used - https://scikit-learn.org/stable/ https://scipy.org/ https://matplotlib.org/ https://xgboost.readthedocs.io/en/stable/install.html https://pandas.pydata.org/
 
 # Research to boost overall performance by problem modification shown in this figure:
